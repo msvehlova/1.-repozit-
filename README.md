@@ -1,1 +1,1 @@
-
+Repozitář jsem založila kvůli požadavku úkolů v předmětu Nástroje a možnosti internetu.
